@@ -35,9 +35,4 @@ This project combines backend validation and frontend view enhancement to shorte
 - Full-stack approach to ERP workflow optimization.
 
 
-## Screenshots
-
-![Project Screenshot](assets/screenshots/placeholder.svg)
-
-Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
 
