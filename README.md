@@ -1,5 +1,11 @@
 ﻿# Odoo Workflow Improvement Pack
 
+[![Odoo](https://img.shields.io/badge/Odoo-16%2B-5E2750)](https://www.odoo.com/)
+[![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL--3.0-blue.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Ready-brightgreen)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/abelfree/odoo-workflow-improvement-pack)](https://github.com/abelfree/odoo-workflow-improvement-pack/commits/master)
+
+
 ## Problem
 Operations teams often spend extra clicks and time in core sales workflows, while weak validation allows avoidable user errors that later become support tickets.
 
@@ -27,3 +33,11 @@ This project combines backend validation and frontend view enhancement to shorte
 - Balancing strict validation with user productivity.
 - Communicating UI improvements using measurable outcomes.
 - Full-stack approach to ERP workflow optimization.
+
+
+## Screenshots
+
+![Project Screenshot](assets/screenshots/placeholder.svg)
+
+Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
+
